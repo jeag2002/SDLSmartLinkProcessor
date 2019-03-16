@@ -1,0 +1,8 @@
+http://www.steves-internet-guide.com/install-mosquitto-broker/
+https://mosquitto.org/download/
+https://aprendiendoarduino.wordpress.com/tag/configurar-mosquitto/
+
+DOC:
+
+Arrancar mosquitto: mosquitto -v
+Arrancar subscriber mosquitto: mosquitto_sub -h 127.0.0.1 -t foo/bar -b
