@@ -19,5 +19,6 @@ eclipse paho 1.0.2
 
 Android chart plugin: txusballesteros FitChart 1.0
 
+(Note: Compile with "tcpDebug" option in Gradle if you want to work with manticore)
 
  
